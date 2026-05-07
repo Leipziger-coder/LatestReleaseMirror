@@ -6,6 +6,6 @@
 
 2dust/v2rayN
 
-golang/go
+#golang/go
 
 ThisIsDara/mhr-cfw-go
