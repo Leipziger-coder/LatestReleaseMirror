@@ -4,7 +4,7 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 #therealaleph/MasterHttpRelayVPN-RUST
 
-2dust/v2rayN|v2rayN-windows-64.zip
+2dust/v2rayN
 
 golang/go
 
